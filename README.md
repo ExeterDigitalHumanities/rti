@@ -4,6 +4,11 @@
 
 Resources for Reflectance Transformation Imaging (RTI) in the University of Exeter Digital Humanities Lab.
 
+For more information about RTI, please see our Libguide: https://libguides.exeter.ac.uk/digitalhumanities/rti
+
+Examples of RTI images created by the DH Lab team: https://humanities-research.exeter.ac.uk/rti/
+
+
 ## Contents
 
 RTI mat - printable template to help guide light positions during highlight photography. Print two copies and place them together under the subject to form a circle. You can then use the 'wheel spoke' lines to guide where to position the light source.
